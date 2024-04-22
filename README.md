@@ -7,3 +7,4 @@
 #Assignment7-https://github.com/Harsha1051/Btech-II-II-CSE-AIML-Assignment/blob/main/2203A51051_Assignment_07.ipynb
 #Assignment8-https://github.com/Harsha1051/Btech-II-II-CSE-AIML-Assignment/blob/main/2203A51051_Assignment_8.ipynb
 #Assignment9-https://github.com/Harsha1051/Btech-II-II-CSE-AIML-Assignment/blob/main/2203A51051_Assignment9.ipynb
+#Assignmnet10-https://github.com/Harsha1051/Btech-II-II-CSE-AIML-Assignment/blob/main/2203A51051_Assignment_10.ipynb
